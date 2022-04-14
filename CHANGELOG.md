@@ -15,6 +15,7 @@
 <a name="breaking_changes_1.25.0">[Breaking Changes:](#breaking_changes_1.25.0)</a>
 
 - [core] changed return type of `(Async)LocalizationProvider#getAvailableLanguages` from `string[]` to `LanguageInfo[]` [#11018](https://github.com/eclipse-theia/theia/pull/11018)
+- [core] changed default icon theme from `none` to `theia-file-icons` [#11028](https://github.com/eclipse-theia/theia/pull/11028)
 
 ## v1.24.0 - 3/31/2022
 
